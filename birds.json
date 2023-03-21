@@ -100599,5 +100599,41 @@
     { "id": 2686634, "image_id": 2686634, "category_id": 3978 },
     { "id": 2686635, "image_id": 2686635, "category_id": 3263 }
   ],
-  "licenses": []
+  "licenses": [
+    {
+      "name": "Attribution License",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "id": 0
+    },
+    {
+      "name": "Attribution-NonCommercial License",
+      "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "id": 1
+    },
+    {
+      "name": "Attribution-NonCommercial-NoDerivatives License",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "id": 2
+    },
+    {
+      "name": "Attribution-NonCommercial-ShareAlike License",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "id": 3
+    },
+    {
+      "name": "Public Domain Dedication",
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "id": 4
+    },
+    {
+      "name": "Attribution-NoDerivatives License",
+      "url": "http://creativecommons.org/licenses/by-nd/4.0/",
+      "id": 5
+    },
+    {
+      "name": "Attribution-ShareAlike License",
+      "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "id": 6
+    }
+  ]
 }
